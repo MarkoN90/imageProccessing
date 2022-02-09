@@ -1,0 +1,12 @@
+{
+    "name": "marko.nisevic/image-reading",
+    "authors": [
+        {
+            "name": "MarkoNisevic",
+            "email": "marko.nisevic@fayebsg.com"
+        }
+    ],
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.12"
+    }
+}
