@@ -7,8 +7,7 @@ exit;
 
 use thiagoalessio\TesseractOCR\TesseractOCR;
 echo (new TesseractOCR('example3.PNG'))
-     ->lang()   
-    ->run();
+->run();
 
 
 
